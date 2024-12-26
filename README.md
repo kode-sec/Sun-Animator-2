@@ -19,6 +19,4 @@ To save it, right click the **Sun Animator 2** folder, and press **Save as Local
 </p>
 
 ## Contact
-https://discord.gg/kPkThYSkSF
-
 kode256 - Discord, X, Roblox
