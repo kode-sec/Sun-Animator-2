@@ -8,3 +8,11 @@ Sun Animator 2 is a powerful Roblox plugin designed for easy animation creation.
 3. Go to the **Plugins** tab and click **Plugins Folder**
 4. Drag the file into the plugins folder.
 5. Restart Roblox Studio.
+
+## Modification
+If you wish to modify the plugin to your own liking, drag the plugin into roblox studio.
+To save it, right click the **Sun Animator 2** folder, and press **Save as Local Plugin...**
+
+<p>
+ <img src="https://github.com/kode-sec/Sun-Animator-2/raw/main/Images/UI.png">
+</p>
