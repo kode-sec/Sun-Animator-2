@@ -17,8 +17,3 @@ To save it, right click the **Sun Animator 2** folder, and press **Save as Local
 <p>
  <img src="https://github.com/kode-sec/Sun-Animator-2/raw/main/Images/UI.png">
 </p>
-
-## Contact
-kode256 - Discord, Roblox
-
-kode_sec - Twitter
